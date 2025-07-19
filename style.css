@@ -1,0 +1,26 @@
+.cont{
+align-items: center;
+justify-content: center;
+margin:130px;
+}
+
+.para{
+  margin-left:40px;
+  font-size:30px;
+}
+.btncont{
+
+  margin-left:25px;
+}
+
+.start,.stop,.reset{
+  padding:10px;
+  font-size:15px;
+  color:white;
+  background-color: black;
+  border:none;
+  border-radius:4px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
